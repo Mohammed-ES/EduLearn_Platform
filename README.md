@@ -148,7 +148,7 @@
 ### 🏠 **Homepage - Modern Landing Experience**
 *Welcoming interface with smooth animations and clear navigation*
 
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-index-php-2025-07-07-14_18_11.png" alt="EduLearn Homepage" width="100%" style="border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-index-php-2025-07-07-14_18_11.png" alt="EduLearn Homepage" width="100%" style="border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);"/>
 
 ---
 
@@ -158,11 +158,11 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-auth-login-php-2025-07-07-14_18_39.png" alt="Login Page" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-auth-login-php-2025-07-07-14_18_39.png" alt="Login Page" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>Secure Login Interface</em></p>
 </td>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-auth-register-php-2025-07-07-14_19_01.png" alt="Register Page" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-auth-register-php-2025-07-07-14_19_01.png" alt="Register Page" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>User Registration Portal</em></p>
 </td>
 </tr>
@@ -173,7 +173,7 @@
 ### 📊 **Student Dashboard - Your Learning Command Center**
 *Comprehensive overview of your educational journey*
 
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-student-dashboard-php-2025-07-07-20_12_22.png" alt="Student Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-student-dashboard-php-2025-07-07-20_12_22.png" alt="Student Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);"/>
 
 ---
 
@@ -182,11 +182,11 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-quiz-php-2025-07-07-20_27_38.png" alt="AI Quiz Generator" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-quiz-php-2025-07-07-20_27_38.png" alt="AI Quiz Generator" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>🧠 AI Quiz Generator</em></p>
 </td>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-ai-assistant-php-2025-07-07-20_29_15.png" alt="AI Assistant" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-ai-assistant-php-2025-07-07-20_29_15.png" alt="AI Assistant" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>💬 AI Learning Assistant</em></p>
 </td>
 </tr>
@@ -199,11 +199,11 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-notes-improved-php-2025-07-07-20_18_05.png" alt="Notes System" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-notes-improved-php-2025-07-07-20_18_05.png" alt="Notes System" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>📝 Advanced Note-Taking System</em></p>
 </td>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-planning-php-2025-07-07-20_23_35.png" alt="Planning System" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-student-planning-php-2025-07-07-20_23_35.png" alt="Planning System" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>📅 Personal Planning Center</em></p>
 </td>
 </tr>
@@ -214,22 +214,22 @@
 ### 🎛️ **Admin Panel - Complete Management Suite**
 *Powerful administrative tools for comprehensive platform management*
 
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-admin-dashboard-php-2025-07-07-14_19_36.png" alt="Admin Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-admin-dashboard-php-2025-07-07-14_19_36.png" alt="Admin Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);"/>
 
 ### 🛠️ **Administrative Features**
 
 <table>
 <tr>
 <td width="33%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-admin-manage-students-php-2025-07-07-14_27_16.png" alt="Student Management" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-admin-manage-students-php-2025-07-07-14_27_16.png" alt="Student Management" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>👥 Student Management</em></p>
 </td>
 <td width="33%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-admin-manage-announcements-php-2025-07-07-19_59_51.png" alt="Announcements" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-admin-manage-announcements-php-2025-07-07-19_59_51.png" alt="Announcements" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>📢 Announcement System</em></p>
 </td>
 <td width="33%">
-<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn/main/assets/images/screenshots/screencapture-localhost-EduLearn-admin-backup-php-2025-07-07-19_58_38.png" alt="Backup System" width="100%" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/Mohammed-ES/EduLearn_Platform/main/assets/images/screenshots/screencapture-localhost-EduLearn-admin-backup-php-2025-07-07-19_58_38.png" alt="Backup System" width="100%" style="border-radius: 8px;"/>
 <p align="center"><em>💾 Backup Management</em></p>
 </td>
 </tr>
@@ -256,8 +256,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Mohammed-ES/EduLearn.git
-cd EduLearn
+git clone https://github.com/Mohammed-ES/EduLearn_Platform.git
+cd EduLearn_Platform
 
 # 2. Setup Environment
 cp .env.example .env
@@ -596,9 +596,9 @@ SOURCE database/edulearn_db.sql;
 
 <div align="center">
 
-[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mohammed-ES/EduLearn/blob/main/CONTRIBUTING.md)
-[![Issues Open](https://img.shields.io/github/issues/Mohammed-ES/EduLearn?style=for-the-badge&logo=github)](https://github.com/Mohammed-ES/EduLearn/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Mohammed-ES/EduLearn?style=for-the-badge&logo=github)](https://github.com/Mohammed-ES/EduLearn/pulls)
+[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mohammed-ES/EduLearn_Platform/blob/main/CONTRIBUTING.md)
+[![Issues Open](https://img.shields.io/github/issues/Mohammed-ES/EduLearn_Platform?style=for-the-badge&logo=github)](https://github.com/Mohammed-ES/EduLearn_Platform/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Mohammed-ES/EduLearn_Platform?style=for-the-badge&logo=github)](https://github.com/Mohammed-ES/EduLearn_Platform/pulls)
 
 </div>
 
@@ -622,8 +622,8 @@ SOURCE database/edulearn_db.sql;
 
 <div align="center">
 
-<a href="https://github.com/Mohammed-ES/EduLearn/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Mohammed-ES/EduLearn" />
+<a href="https://github.com/Mohammed-ES/EduLearn_Platform/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Mohammed-ES/EduLearn_Platform" />
 </a>
 
 *Made with [contrib.rocks](https://contrib.rocks)*
@@ -638,13 +638,13 @@ SOURCE database/edulearn_db.sql;
 
 ### 📈 **Project Analytics**
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Mohammed-ES/EduLearn?style=for-the-badge&logo=github)
-![GitHub code size](https://img.shields.io/github/languages/code-size/Mohammed-ES/EduLearn?style=for-the-badge&logo=github)
-![Lines of code](https://img.shields.io/tokei/lines/github/Mohammed-ES/EduLearn?style=for-the-badge&logo=github)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mohammed-ES/EduLearn_Platform?style=for-the-badge&logo=github)
+![GitHub code size](https://img.shields.io/github/languages/code-size/Mohammed-ES/EduLearn_Platform?style=for-the-badge&logo=github)
+![Lines of code](https://img.shields.io/tokei/lines/github/Mohammed-ES/EduLearn_Platform?style=for-the-badge&logo=github)
 
-![GitHub stars](https://img.shields.io/github/stars/Mohammed-ES/EduLearn?style=for-the-badge&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/Mohammed-ES/EduLearn?style=for-the-badge&logo=github)
-![GitHub watchers](https://img.shields.io/github/watchers/Mohammed-ES/EduLearn?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Mohammed-ES/EduLearn_Platform?style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/Mohammed-ES/EduLearn_Platform?style=for-the-badge&logo=github)
+![GitHub watchers](https://img.shields.io/github/watchers/Mohammed-ES/EduLearn_Platform?style=for-the-badge&logo=github)
 
 ### 💻 **Language Distribution**
 
@@ -685,7 +685,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mohammed-ES/EduLearn&type=Date)](https://star-history.com/#Mohammed-ES/EduLearn&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Mohammed-ES/EduLearn_Platform&type=Date)](https://star-history.com/#Mohammed-ES/EduLearn_Platform&Date)
 
 ---
 
@@ -713,7 +713,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🚀 **Ready to Transform Education?**
 
-**[⭐ Star this repository](https://github.com/Mohammed-ES/EduLearn)** • **[🍴 Fork it](https://github.com/Mohammed-ES/EduLearn/fork)** • **[📝 Contribute](https://github.com/Mohammed-ES/EduLearn/blob/main/CONTRIBUTING.md)**
+**[⭐ Star this repository](https://github.com/Mohammed-ES/EduLearn_Platform)** • **[🍴 Fork it](https://github.com/Mohammed-ES/EduLearn_Platform/fork)** • **[📝 Contribute](https://github.com/Mohammed-ES/EduLearn_Platform/blob/main/CONTRIBUTING.md)**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
