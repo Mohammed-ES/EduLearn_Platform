@@ -243,12 +243,6 @@ GEMINI_MODEL=gemini-2.0-flash
 
 <div align="center">
 
-### 🚀 **Ready to transform education?**
-
-**[⭐ Star this repository](https://github.com/Mohammed-ES/EduLearn_Platform)** • **[🍴 Fork it](https://github.com/Mohammed-ES/EduLearn_Platform/fork)**
-
-**Created with ❤️ by [Mohammed ES](https://github.com/Mohammed-ES)**
-
 ### 🎯 **EduLearn: Where Technology Meets Education**
 
 *Empowering learners, enabling educators, transforming the future.*
