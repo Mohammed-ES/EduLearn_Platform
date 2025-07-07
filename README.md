@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🎓 EduLearn Platform
-### 🚀 *Plateforme d'apprentissage moderne alimentée par l'IA*
+### 🚀 *Modern AI-Powered Learning Platform*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Plateforme+Éducative+Moderne;Expérience+d'Apprentissage+IA;Gestion+Étudiants+%26+Admin;Génération+Quiz+Temps+Réel;Système+Prise+de+Notes+Intelligent" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Modern+Educational+Platform;AI-Powered+Learning+Experience;Student+%26+Admin+Management;Real-Time+Quiz+Generation;Intelligent+Note-Taking+System" alt="Typing SVG" />
 
 [![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
@@ -12,51 +12,51 @@
 
 ---
 
-### 🌟 *Transformer l'éducation grâce à une technologie intelligente*
+### 🌟 *Transforming education through intelligent technology*
 
 </div>
 
-## 📋 À propos d'EduLearn
+## 📋 About EduLearn
 
-**EduLearn** est une plateforme éducative de nouvelle génération qui combine la puissance des technologies web modernes avec l'intelligence artificielle pour créer une expérience d'apprentissage immersive et personnalisée.
+**EduLearn** is a next-generation educational platform that combines the power of modern web technologies with artificial intelligence to create an immersive and personalized learning experience.
 
-### 🎨 Ce qui rend EduLearn spécial
+### 🎨 What Makes EduLearn Special
 
-- 🤖 **Alimenté par l'IA** : Propulsé par Google Gemini AI pour la génération intelligente de contenu
-- 📱 **Design Responsive** : Expérience fluide sur tous les appareils
-- 🔐 **Sécurité Avancée** : Authentification et protection des données de niveau entreprise
-- ⚡ **Ultra-rapide** : Performance optimisée avec les technologies modernes
-- 🎨 **Interface Beautiful** : Interface moderne et intuitive avec animations fluides
+- 🤖 **AI-Powered** : Powered by Google Gemini AI for intelligent content generation
+- 📱 **Responsive Design** : Seamless experience across all devices
+- 🔐 **Advanced Security** : Enterprise-level authentication and data protection
+- ⚡ **Ultra-Fast** : Optimized performance with modern technologies
+- 🎨 **Beautiful Interface** : Modern and intuitive interface with smooth animations
 
 ---
 
-## ✨ Fonctionnalités Principales
+## ✨ Key Features
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍🎓 **Pour les Étudiants**
-- 📚 **Tableau de bord interactif** avec analyses en temps réel
-- 📝 **Prise de notes intelligente** avec résumé IA
-- 🧠 **Quiz générés par IA** sur n'importe quel sujet
-- 📊 **Suivi des progrès** avec insights visuels
-- 📅 **Planification personnelle** et gestion d'horaires
-- 💬 **Assistant IA** pour support d'apprentissage 24/7
-- 📄 **Outils d'export** (formats PDF, TXT)
+### 👨‍🎓 **For Students**
+- 📚 **Interactive Dashboard** with real-time analytics
+- 📝 **Smart Note-Taking** with AI-powered summaries
+- 🧠 **AI-Generated Quizzes** on any topic
+- 📊 **Progress Tracking** with visual insights
+- 📅 **Personal Planning** and schedule management
+- 💬 **AI Assistant** for 24/7 learning support
+- 📄 **Export Tools** (PDF, TXT formats)
 
 </td>
 <td width="50%" valign="top">
 
-### 👨‍💼 **Pour les Administrateurs**
-- 🎛️ **Tableau de bord complet** avec analytics
-- 👥 **Gestion des étudiants** système
-- 📝 **Gestion de contenu** outils
-- 📊 **Analytics avancés** et rapports
-- ⚙️ **Centre de configuration** système
-- 💾 **Système de sauvegarde** automatisé
-- 🔔 **Diffusion d'annonces**
-- 🔐 **Centre de gestion sécurité**
+### 👨‍💼 **For Administrators**
+- 🎛️ **Complete Dashboard** with analytics
+- 👥 **Student Management** system
+- 📝 **Content Management** tools
+- 📊 **Advanced Analytics** and reports
+- ⚙️ **System Configuration** center
+- 💾 **Automated Backup** system
+- 🔔 **Announcement Broadcasting**
+- 🔐 **Security Management** center
 
 </td>
 </tr>
@@ -64,123 +64,123 @@
 
 ---
 
-## 🎬 Captures d'écran
+## 🎬 Screenshots
 
-### 🏠 **Page d'accueil - Expérience d'accueil moderne**
+### 🏠 **Homepage - Modern Welcome Experience**
 ![Homepage](assets/images/screenshots/screencapture-localhost-EduLearn-index-php-2025-07-07-14_18_11.png)
 
-### 🔐 **Système d'authentification - Sécurisé & Moderne**
+### 🔐 **Authentication System - Secure & Modern**
 <table>
 <tr>
 <td width="50%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-auth-login-php-2025-07-07-14_18_39.png" alt="Page de connexion" width="100%"/>
-<p align="center"><em>Interface de connexion sécurisée</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-auth-login-php-2025-07-07-14_18_39.png" alt="Login Page" width="100%"/>
+<p align="center"><em>Secure Login Interface</em></p>
 </td>
 <td width="50%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-auth-register-php-2025-07-07-14_19_01.png" alt="Page d'inscription" width="100%"/>
-<p align="center"><em>Portail d'inscription utilisateur</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-auth-register-php-2025-07-07-14_19_01.png" alt="Registration Page" width="100%"/>
+<p align="center"><em>User Registration Portal</em></p>
 </td>
 </tr>
 </table>
 
-### 📊 **Tableau de bord étudiant - Centre de commande d'apprentissage**
-![Dashboard Étudiant](assets/images/screenshots/screencapture-localhost-EduLearn-student-student-dashboard-php-2025-07-07-20_12_22.png)
+### 📊 **Student Dashboard - Learning Command Center**
+![Student Dashboard](assets/images/screenshots/screencapture-localhost-EduLearn-student-student-dashboard-php-2025-07-07-20_12_22.png)
 
-### 🧠 **Fonctionnalités IA - Intelligence à portée de main**
+### 🧠 **AI Features - Intelligence at Your Fingertips**
 <table>
 <tr>
 <td width="50%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-student-quiz-php-2025-07-07-20_27_38.png" alt="Générateur de Quiz IA" width="100%"/>
-<p align="center"><em>🧠 Générateur de Quiz IA</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-student-quiz-php-2025-07-07-20_27_38.png" alt="AI Quiz Generator" width="100%"/>
+<p align="center"><em>🧠 AI Quiz Generator</em></p>
 </td>
 <td width="50%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-student-ai-assistant-php-2025-07-07-20_29_15.png" alt="Assistant IA" width="100%"/>
-<p align="center"><em>💬 Assistant d'apprentissage IA</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-student-ai-assistant-php-2025-07-07-20_29_15.png" alt="AI Assistant" width="100%"/>
+<p align="center"><em>💬 AI Learning Assistant</em></p>
 </td>
 </tr>
 </table>
 
-### 📝 **Outils d'apprentissage intelligents - Améliorez votre expérience d'étude**
+### 📝 **Smart Learning Tools - Enhance Your Study Experience**
 <table>
 <tr>
 <td width="50%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-student-notes-improved-php-2025-07-07-20_18_05.png" alt="Système de notes" width="100%"/>
-<p align="center"><em>📝 Système de prise de notes avancé</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-student-notes-improved-php-2025-07-07-20_18_05.png" alt="Note System" width="100%"/>
+<p align="center"><em>📝 Advanced Note-Taking System</em></p>
 </td>
 <td width="50%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-student-planning-php-2025-07-07-20_23_35.png" alt="Système de planification" width="100%"/>
-<p align="center"><em>📅 Centre de planification personnelle</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-student-planning-php-2025-07-07-20_23_35.png" alt="Planning System" width="100%"/>
+<p align="center"><em>📅 Personal Planning Center</em></p>
 </td>
 </tr>
 </table>
 
-### 🎛️ **Panneau d'administration - Suite de gestion complète**
-![Dashboard Admin](assets/images/screenshots/screencapture-localhost-EduLearn-admin-dashboard-php-2025-07-07-14_19_36.png)
+### 🎛️ **Admin Panel - Complete Management Suite**
+![Admin Dashboard](assets/images/screenshots/screencapture-localhost-EduLearn-admin-dashboard-php-2025-07-07-14_19_36.png)
 
-### 🛠️ **Fonctionnalités administratives**
+### 🛠️ **Administrative Features**
 <table>
 <tr>
 <td width="33%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-admin-manage-students-php-2025-07-07-14_27_16.png" alt="Gestion des étudiants" width="100%"/>
-<p align="center"><em>👥 Gestion des étudiants</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-admin-manage-students-php-2025-07-07-14_27_16.png" alt="Student Management" width="100%"/>
+<p align="center"><em>👥 Student Management</em></p>
 </td>
 <td width="33%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-admin-manage-announcements-php-2025-07-07-19_59_51.png" alt="Annonces" width="100%"/>
-<p align="center"><em>📢 Système d'annonces</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-admin-manage-announcements-php-2025-07-07-19_59_51.png" alt="Announcements" width="100%"/>
+<p align="center"><em>📢 Announcement System</em></p>
 </td>
 <td width="33%">
-<img src="assets/images/screenshots/screencapture-localhost-EduLearn-admin-backup-php-2025-07-07-19_58_38.png" alt="Système de sauvegarde" width="100%"/>
-<p align="center"><em>💾 Gestion des sauvegardes</em></p>
+<img src="assets/images/screenshots/screencapture-localhost-EduLearn-admin-backup-php-2025-07-07-19_58_38.png" alt="Backup System" width="100%"/>
+<p align="center"><em>💾 Backup Management</em></p>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Installation Rapide
+## 🚀 Quick Installation
 
-### 📋 Prérequis
+### 📋 Prerequisites
 - PHP 8.0+
 - MySQL 8.0+
-- XAMPP/WAMP (recommandé)
-- Clé API Google Gemini
+- XAMPP/WAMP (recommended)
+- Google Gemini API Key
 
-### ⚡ Étapes d'installation
+### ⚡ Installation Steps
 
 ```bash
-# 1. Cloner le repository
+# 1. Clone the repository
 git clone https://github.com/Mohammed-ES/EduLearn_Platform.git
 cd EduLearn_Platform
 
-# 2. Configuration de l'environnement
+# 2. Environment configuration
 cp .env.example .env
 
-# 3. Configurer la base de données
+# 3. Configure database
 mysql -u root -p < database/edulearn_db.sql
 
-# 4. Démarrer le serveur web (XAMPP/WAMP)
-# Accéder à : http://localhost/EduLearn
+# 4. Start web server (XAMPP/WAMP)
+# Access: http://localhost/EduLearn
 ```
 
 ### 🔧 Configuration
 
-Éditez le fichier `.env` avec vos configurations :
+Edit the `.env` file with your configurations:
 
 ```env
-# Configuration Base de données
+# Database Configuration
 DB_HOST=localhost:3307
 DB_USER=root
 DB_PASS=your_password
 DB_NAME=edulearn_db
 
-# Configuration Gemini AI
+# Gemini AI Configuration
 GEMINI_API_KEY=your_gemini_api_key
 GEMINI_MODEL=gemini-2.0-flash
 ```
 
 ---
 
-## 🛠️ Technologies Utilisées
+## 🛠️ Technologies Used
 
 <div align="center">
 
@@ -195,32 +195,32 @@ GEMINI_MODEL=gemini-2.0-flash
 
 ---
 
-## 📱 Guide d'utilisation
+## 📱 Usage Guide
 
-### 👨‍🎓 Pour les étudiants
-1. **S'inscrire/Se connecter** → Créer un compte ou se connecter
-2. **Tableau de bord** → Accéder à votre dashboard personnalisé
-3. **Prendre des notes** → Créer et organiser vos notes d'étude
-4. **Générer des quiz** → Utiliser l'IA pour créer des quiz sur n'importe quel sujet
-5. **Planifier** → Organiser votre emploi du temps d'étude
-6. **Assistant IA** → Obtenir de l'aide pour vos études
+### 👨‍🎓 For Students
+1. **Sign up/Login** → Create an account or log in
+2. **Dashboard** → Access your personalized dashboard
+3. **Take Notes** → Create and organize your study notes
+4. **Generate Quizzes** → Use AI to create quizzes on any topic
+5. **Plan** → Organize your study schedule
+6. **AI Assistant** → Get help with your studies
 
-### 👨‍💼 Pour les administrateurs
-1. **Panneau admin** → Accéder aux fonctionnalités de gestion avancées
-2. **Gestion des utilisateurs** → Ajouter, modifier ou supprimer des étudiants
-3. **Gestion du contenu** → Gérer les annonces et ressources
-4. **Analytics** → Voir les analyses détaillées de la plateforme
+### 👨‍💼 For Administrators
+1. **Admin Panel** → Access advanced management features
+2. **User Management** → Add, modify, or remove students
+3. **Content Management** → Manage announcements and resources
+4. **Analytics** → View detailed platform analysis
 
 ---
 
-## 🔐 Fonctionnalités de sécurité
+## 🔐 Security Features
 
-- ✅ **Variables d'environnement** : Données sensibles stockées dans `.env`
-- ✅ **Requêtes préparées** : Prévention des injections SQL
-- ✅ **Validation des entrées** : Assainissement complet des données
-- ✅ **Sécurité des sessions** : Gestion sécurisée des sessions
-- ✅ **Contrôle d'accès** : Permissions basées sur les rôles
-- ✅ **Protection XSS** : Encodage des sorties
+- ✅ **Environment Variables** : Sensitive data stored in `.env`
+- ✅ **Prepared Statements** : SQL injection prevention
+- ✅ **Input Validation** : Complete data sanitization
+- ✅ **Session Security** : Secure session management
+- ✅ **Access Control** : Role-based permissions
+- ✅ **XSS Protection** : Output encoding
 
 ---
 
@@ -233,25 +233,25 @@ GEMINI_MODEL=gemini-2.0-flash
 
 </div>
 
-1. **Fork** le repository
-2. **Créer** une branche feature (`git checkout -b feature/NouvelleFonctionnalite`)
-3. **Commit** vos changements (`git commit -m 'Ajouter une nouvelle fonctionnalité'`)
-4. **Push** vers la branche (`git push origin feature/NouvelleFonctionnalite`)
-5. **Ouvrir** une Pull Request
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/NewFeature`)
+3. **Commit** your changes (`git commit -m 'Add new feature'`)
+4. **Push** to the branch (`git push origin feature/NewFeature`)
+5. **Open** a Pull Request
 
 ---
 
 <div align="center">
 
-### 🚀 **Prêt à transformer l'éducation ?**
+### 🚀 **Ready to transform education?**
 
-**[⭐ Star ce repository](https://github.com/Mohammed-ES/EduLearn_Platform)** • **[🍴 Fork le](https://github.com/Mohammed-ES/EduLearn_Platform/fork)**
+**[⭐ Star this repository](https://github.com/Mohammed-ES/EduLearn_Platform)** • **[🍴 Fork it](https://github.com/Mohammed-ES/EduLearn_Platform/fork)**
 
-**Créé avec ❤️ par [Mohammed ES](https://github.com/Mohammed-ES)**
+**Created with ❤️ by [Mohammed ES](https://github.com/Mohammed-ES)**
 
-### 🎯 **EduLearn : Là où la technologie rencontre l'éducation**
+### 🎯 **EduLearn: Where Technology Meets Education**
 
-*Responsabiliser les apprenants, permettre aux éducateurs, transformer l'avenir.*
+*Empowering learners, enabling educators, transforming the future.*
 
 </div>
 
