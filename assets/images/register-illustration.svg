@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="400" viewBox="0 0 500 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <path d="M250 350C337.32 350 408 279.32 408 192C408 104.68 337.32 34 250 34C162.68 34 92 104.68 92 192C92 279.32 162.68 350 250 350Z" fill="#E8F4FE" opacity="0.3"/>
+  
+  <!-- Registration form -->
+  <rect x="130" y="80" width="240" height="240" rx="8" fill="white" stroke="#E0E0E0" stroke-width="2"/>
+  <rect x="130" y="80" width="240" height="40" rx="8" fill="#007BFF"/>
+  <text x="200" y="105" font-family="Arial" font-size="14" font-weight="bold" fill="white">Create Account</text>
+  
+  <!-- Form fields -->
+  <rect x="150" y="140" width="95" height="30" rx="4" fill="#F8F9FA" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="255" y="140" width="95" height="30" rx="4" fill="#F8F9FA" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="150" y="180" width="200" height="30" rx="4" fill="#F8F9FA" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="150" y="220" width="200" height="30" rx="4" fill="#F8F9FA" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="150" y="260" width="200" height="30" rx="4" fill="#007BFF"/>
+  
+  <!-- Text labels -->
+  <text x="153" y="135" font-family="Arial" font-size="8" fill="#555555">First Name</text>
+  <text x="258" y="135" font-family="Arial" font-size="8" fill="#555555">Last Name</text>
+  <text x="153" y="175" font-family="Arial" font-size="8" fill="#555555">Email</text>
+  <text x="153" y="215" font-family="Arial" font-size="8" fill="#555555">Password</text>
+  <text x="235" y="279" font-family="Arial" font-size="11" font-weight="bold" fill="white">Register</text>
+  
+  <!-- People illustrations -->
+  <circle cx="410" cy="150" r="25" fill="#3F72AF"/>
+  <path d="M440 220V200C440 189 430.6 180 419 180H401C389.4 180 380 189 380 200V220" fill="#3F72AF"/>
+  
+  <circle cx="90" cy="180" r="20" fill="#D4AF37"/>
+  <path d="M115 240V220C115 209 105.6 200 94 200H86C74.4 200 65 209 65 220V240" fill="#D4AF37"/>
+  
+  <circle cx="350" cy="320" r="15" fill="#0F4C75"/>
+  <path d="M370 350V340C370 329 360.6 320 349 320H351C339.4 320 330 329 330 340V350" fill="#0F4C75"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="50" cy="100" r="15" fill="#D4AF37" opacity="0.2"/>
+  <circle cx="450" cy="250" r="20" fill="#3F72AF" opacity="0.2"/>
+  <circle cx="80" cy="340" r="25" fill="#007BFF" opacity="0.1"/>
+  
+  <!-- Check marks for features -->
+  <circle cx="430" cy="290" r="10" fill="#2ECC71"/>
+  <path d="M426 290L428 292L434 286" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  
+  <circle cx="430" cy="320" r="10" fill="#2ECC71"/>
+  <path d="M426 320L428 322L434 316" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  
+  <circle cx="430" cy="350" r="10" fill="#2ECC71"/>
+  <path d="M426 350L428 352L434 346" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>

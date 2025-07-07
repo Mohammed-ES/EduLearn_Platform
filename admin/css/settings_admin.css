@@ -1,0 +1,69 @@
+/* settings_admin.css */
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F5F8FA;
+  margin: 0;
+  padding: 0;
+}
+
+.settings-admin-container {
+  max-width: 700px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.settings-admin-container h1 {
+  text-align: center;
+  color: #007BFF;
+  margin-bottom: 30px;
+}
+
+form {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 6px;
+  color: #0F4C75;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+button[type="submit"] {
+  background-color: #D4AF37;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+  width: 100%;
+}
+
+button[type="submit"]:hover {
+  background-color: #007BFF;
+}
+
+#statusMessage {
+  margin-top: 20px;
+  text-align: center;
+  color: green;
+  font-size: 0.95rem;
+}

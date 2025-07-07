@@ -1,0 +1,50 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHP
+vendor/
+composer.lock
+
+# Logs
+*.log
+logs/
+debug.log
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# Database
+*.sql.backup
+backup_*.sql
+
+# API Keys and sensitive data
+config/keys/
+*api_key*
+*secret*
+
+# Node modules (if any)
+node_modules/
+npm-debug.log*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# User uploads
+uploads/private/
+exports/private/

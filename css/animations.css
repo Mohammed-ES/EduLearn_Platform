@@ -1,0 +1,64 @@
+/* Animated shapes for auth pages */
+.shape {
+    position: absolute;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+
+.shape-1 {
+    width: 120px;
+    height: 120px;
+    background: linear-gradient(45deg, #007BFF, #3F72AF);
+    top: 10%;
+    left: 5%;
+    filter: blur(30px);
+    animation: float 15s ease-in-out infinite;
+}
+
+.shape-2 {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(45deg, #D4AF37, #FFDE7D);
+    bottom: 10%;
+    right: 15%;
+    filter: blur(20px);
+    animation: float 18s ease-in-out infinite reverse;
+}
+
+.shape-3 {
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(45deg, #0F4C75, #3282B8);
+    bottom: 5%;
+    left: 10%;
+    filter: blur(35px);
+    animation: float 20s ease-in-out infinite;
+}
+
+.shape-4 {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(45deg, #007BFF, #00BFFF);
+    top: 15%;
+    right: 10%;
+    filter: blur(25px);
+    animation: float 12s ease-in-out infinite reverse;
+}
+
+@keyframes float {
+    0% {
+        transform: translate(0, 0);
+    }
+    25% {
+        transform: translate(10px, -15px);
+    }
+    50% {
+        transform: translate(20px, 10px);
+    }
+    75% {
+        transform: translate(-10px, 15px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}

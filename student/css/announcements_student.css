@@ -1,0 +1,84 @@
+/* announcements_student.css */
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F5F8FA;
+  margin: 0;
+  padding: 0;
+}
+
+.announcements-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.announcements-container h1 {
+  color: #007BFF;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.mark-read-btn {
+  background-color: #0F4C75;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.mark-read-btn:hover {
+  background-color: #007BFF;
+}
+
+.announcement-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.announcement-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-left: 6px solid #D4AF37;
+  position: relative;
+}
+
+.announcement-card.unread {
+  border-left-color: #007BFF;
+  background-color: #ecf4ff;
+}
+
+.announcement-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #0F4C75;
+}
+
+.announcement-date {
+  font-size: 0.85rem;
+  color: #6C757D;
+  margin-bottom: 10px;
+}
+
+.announcement-content {
+  color: #333;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+.read-badge {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  background: #28a745;
+  color: #fff;
+  padding: 5px 12px;
+  font-size: 0.75rem;
+  border-radius: 20px;
+}
